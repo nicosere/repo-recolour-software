@@ -1,2 +1,2 @@
-# repo-recolour-software
-Interactive Deep Colorization repo
+git clone https://github.com/junyanz/interactive-deep-colorization ideepcolor
+cd ideepcolor
